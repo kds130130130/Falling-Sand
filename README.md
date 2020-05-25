@@ -11,11 +11,8 @@ Different particles have different interactions. For example, water can be conta
 By: 
 
 Marc Tifrea
-
 Kia Khadem
-
 Juan Semidey
-
 Ken Smith
 
 Original Source: https://github.com/kds130130/CG-project
